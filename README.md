@@ -20,7 +20,7 @@ I'm a first-year ENC student at Thapar Institute who builds things that actually
 My focus is full-stack web development, rapid prototyping, and wiring AI into
 products that solve real problems — not just demos.
 
-- 🏆 Won **Makethon 8.0** · Finalist at **Eclipse 6.0** · Competed at **Haxplore 2026 - IIT BHU**
+- 🏆 Won **Makethon 8.0(MLSC)** · Finalist at **Eclipse 6.0** · Competed at **Devcation Hack 'N' Solve - IIT Delhi** & **Haxplore 2026 - IIT BHU**
 - 🤖 Integrating LLMs (Gemini, OpenAI, Ollama) into real products
 - ☕ Sharpening DSA fundamentals with Java
 - 🌍 Building impact-driven platforms from concept to live deployment
@@ -52,17 +52,6 @@ Deployment    Vercel · Git · GitHub
 
 ---
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AyushBinjola1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AyushBinjola1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AyushBinjola1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AyushBinjola1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 
 
