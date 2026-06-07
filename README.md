@@ -48,7 +48,7 @@ Deployment    Vercel · Git · GitHub
 | [**EveryRupee**](https://github.com/AyushBinjola1/EveryRupee) | Role-based fintech platform — statement parsing, GST invoicing, credit risk scoring & AI finance sandbox |
 | [**Swar Setu**](https://github.com/AyushBinjola1/Swar-Setu) | AI-powered multilingual platform for early detection of dyslexia, dysgraphia & dyscalculia |
 | [**EcoSphere TIET**](https://github.com/AyushBinjola1/ecospheretiet) | Hyper-local sustainability dashboard — carbon footprints, solar potential & campus eco data |
-| [**ARC-TIET**](https://github.com/AyushBinjola1/ARC-TIET) | Modern alumni relations platform for Thapar Institute |
+
 
 ---
 
