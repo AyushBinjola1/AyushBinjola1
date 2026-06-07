@@ -22,7 +22,7 @@ products that solve real problems — not just demos.
 
 - 🏆 Won **Makethon 8.0(MLSC)** · Finalist at **Eclipse 6.0** · Competed at **Devcation Hack 'N' Solve - IIT Delhi** & **Haxplore 2026 - IIT BHU**
 - 🤖 Integrating LLMs (Gemini, OpenAI, Ollama) into real products
-- ☕ Sharpening DSA fundamentals with Java
+- ☕ Sharpening DSA fundamentals with C++
 - 🌍 Building impact-driven platforms from concept to live deployment
 
 ---
